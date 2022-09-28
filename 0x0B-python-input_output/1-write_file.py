@@ -1,5 +1,3 @@
-able File  15 lines (12 sloc)  403 Bytes
-
 #!/usr/bin/python3
 """Defines a file-writing function."""
 
